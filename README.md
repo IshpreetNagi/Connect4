@@ -3,9 +3,9 @@ Developed a recreation of the iconic Connect4 game experienceable through a 2-pl
 
 If you encounter any bugs or problems with the game and its code, please feel free the reach out to me at: ishpreetnagi@gmail.com. Have fun!
 
-## Pre-requisites
+### Pre-requisites
 - Java >= 8
 
 
-## Setting Up
+### Setting Up
 Download all the files seen in the repo above on your local machine, storing them all in the same folder. Once downloaded, simply run the main.java file in a java compiler and play the game in the terminal, using your mouse to interact with the prompts on the screen. 
